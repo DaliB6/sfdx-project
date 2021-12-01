@@ -159,7 +159,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Brokers</pluralLabel>
+<<<<<<< HEAD
     <searchLayouts></searchLayouts>
+=======
+    <searchLayouts/>
+>>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

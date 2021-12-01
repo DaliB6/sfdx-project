@@ -1,13 +1,31 @@
 {
+<<<<<<< HEAD
   "orgName": "mohamedaliboucetta company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
+=======
+  "orgName": "DreamHouse Realty",
+  "edition": "Developer",
+  "features": [],
+>>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
+<<<<<<< HEAD
+=======
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    },
+>>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
