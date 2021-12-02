@@ -1,20 +1,13 @@
 {
-<<<<<<< HEAD
   "extends": ["@salesforce/eslint-config-lwc/recommended"],
-=======
-  "extends": ["@salesforce/eslint-config-lwc/recommended", "prettier"],
->>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
   "overrides": [
     {
       "files": ["*.test.js"],
       "rules": {
         "@lwc/lwc/no-unexpected-wire-adapter-usages": "off"
-<<<<<<< HEAD
       },
       "env": {
         "node": true
-=======
->>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
       }
     }
   ]
