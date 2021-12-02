@@ -5,14 +5,8 @@
       "default": true
     }
   ],
-<<<<<<< HEAD
   "name": "sfdx-chan",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "52.0"
-=======
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "51.0"
->>>>>>> 7b795689a6ba8652e3d4df874cd0476f27eadf28
 }
